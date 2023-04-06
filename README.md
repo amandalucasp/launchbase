@@ -1,3 +1,3 @@
-# launchbase
+# Launchbase
 
-repo with the modules/projects related to the Launchbase course
+Repo with the modules/projects related to Launchbase bootcamp.
